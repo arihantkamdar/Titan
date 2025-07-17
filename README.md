@@ -1,7 +1,7 @@
 # Titan
 A simple implementation of TITANs Paper by Google
 
-In intesrest of time, I was just able to implemet MAC architecture of the paper, However in next couple of days I would work on MAG and MAL architectures irrespective of the decision of the hiring
+In intesrest of time, I was just able to implemet MAC architecture of the paper, However in next couple of days I would work on MAG and MAL architectures irrespective of the decision of the hiring. I just want to thank you as this assesment helped me work on this that I was wanting to do for so long. 
 
 # MAC: Memory-As-Context Model Implementation
 
